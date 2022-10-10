@@ -17,4 +17,4 @@ DAY 4. 1.sum and product 2.class results  3.create update and display  4.area of
 
 
 
-DAY 5  1.mammals 2.fruit 3.   4.vehicle   5.shapes  6.
+DAY 5  1.mammals 2.fruit 3.student marks  4.vehicle  5.shapes  6.banks operating 7.bank function scenario
