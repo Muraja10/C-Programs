@@ -13,3 +13,8 @@ DAY 3 1.area of square and rectangle,2.class degree,3.integer and character,4.in
 
 
 DAY 4. 1.sum and product 2.class results  3.create update and display  4.area of circle using pointers   5.sum of integers  6.engineering admission  7.fruits 8.total mark
+
+
+
+
+DAY 5  1.mammals 2.fruit 3.   4.vehicle   5.shapes  6.
