@@ -2,7 +2,7 @@ DAY 1 1.alphabetical order,2.perfect no,3.composite number,4.eligible voting or 
 
 
 
-DAY 2 1.average and grades,2.employee salary calculation,3.area using overload,4.arithmetic,5.binary to octal and octal to decimal,6.database for employeee,7.electrical bill,8.even fibonacci series,9.friend clas fot adding two number,10.multiplication table,11.reverse number,12.area of sshapes,13.simple interest,14.swap the number,15.voting 
+DAY 2 1.average and grades,2.employee salary calculation,3.area using overload,4.arithmetic,5.binary to octal and octal to decimal,6.database for employeee,7.electrical bill,8.even fibonacci series,9.friend clas fot adding two number,10.multiplication table,11.reverse number,12.area of shapes,13.simple interest,14.swap the number,15.voting 
 
 
 
